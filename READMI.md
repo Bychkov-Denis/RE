@@ -1,0 +1,1 @@
+This is the Relvise company page. This layout used the **BEM methodology**, **Flexbox**, **adaptive layout using media queries**.
